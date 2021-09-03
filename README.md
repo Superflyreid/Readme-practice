@@ -1,2 +1,2 @@
-# Readme-practice
+# README-practice
 # Levi Reid
